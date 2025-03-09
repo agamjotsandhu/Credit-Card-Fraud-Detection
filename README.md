@@ -14,9 +14,11 @@ Feature Engineering & Splitting
   Data was split into training and test sets (80%-20%) with stratification to preserve class balance.
   
 Model Selection & Training
-  Two machine learning models were implemented:
+  Four machine learning models were implemented:
     Logistic Regression
     Random Forest Classifier
+    XGBoost
+    Neural Networks
   Each model was trained on the balanced dataset.
 
 Evaluation
